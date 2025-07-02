@@ -1,3 +1,1 @@
-print("hello")
-print("world")
-print("branch")
+print("1000")
